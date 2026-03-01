@@ -354,7 +354,7 @@ export default function App() {
             </p>
           </div>
 
-          <a href="#" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 bg-white/5 border border-white/10 rounded-2xl hover:bg-white/10 transition-colors">
+          <a href="https://www.instagram.com/elya.trade" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 bg-white/5 border border-white/10 rounded-2xl hover:bg-white/10 transition-colors">
             <div className="bg-gradient-to-tr from-yellow-500 via-red-500 to-purple-500 p-2 rounded-xl">
               <Instagram className="w-5 h-5 text-white" />
             </div>
